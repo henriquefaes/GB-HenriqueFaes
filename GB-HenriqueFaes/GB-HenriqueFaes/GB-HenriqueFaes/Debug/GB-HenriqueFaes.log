@@ -1,0 +1,60 @@
+﻿  Main.cpp
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Mtllib.h(63,17): warning C4244: 'inicializando': conversão de 'std::streamoff' para 'long', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Mtllib.h(68,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(27,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(29,22): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(83,35): warning C4244: 'argumento': conversão de 'float' para '_Ty', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(83,35): warning C4244:         with
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(83,35): warning C4244:         [
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(83,35): warning C4244:             _Ty=int
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(83,35): warning C4244:         ]
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(85,36): warning C4244: 'argumento': conversão de 'float' para '_Ty', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(85,36): warning C4244:         with
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(85,36): warning C4244:         [
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(85,36): warning C4244:             _Ty=int
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(85,36): warning C4244:         ]
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(87,36): warning C4244: 'argumento': conversão de 'float' para '_Ty', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(87,36): warning C4244:         with
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(87,36): warning C4244:         [
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(87,36): warning C4244:             _Ty=int
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(87,36): warning C4244:         ]
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Obj.h(153,17): warning C4244: 'inicializando': conversão de 'std::streamoff' para 'long', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\BezierCurve.h(20,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\BezierCurve.h(21,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\BezierCurve.h(23,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\BezierCurve.h(24,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Scene.h(73,17): warning C4244: 'inicializando': conversão de 'std::streamoff' para 'long', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(92,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(107,20): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(112,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(173,22): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(216,21): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(231,10): warning C4305: '+=': truncamento de 'double' para 'float'
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(235,24): warning C4018: '>=': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(252,22): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(165,9): warning C4101: 'texture': variável local não referenciada
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(327,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(328,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(332,18): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(333,18): warning C4244: 'inicializando': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(335,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(336,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Main.cpp(343,28): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\GB-HenriqueFaes\Mtllib.h(72,1): warning C4715: 'Mtllib::getMaterialByName': nem todos os caminhos de controle retornam um valor
+glfw3.lib(context.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(context.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(init.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(init.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(input.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(input.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(monitor.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(window.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(window.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_init.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_monitor.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_time.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_tls.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(win32_window.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(winmm_joystick.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(winmm_joystick.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' não foi encontrado 'glfw3.lib(wgl_context.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' não foi encontrado 'SOIL.lib(image_DXT.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB '' não foi encontrado 'SOIL.lib(image_helper.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB '' não foi encontrado 'SOIL.lib(SOIL.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB '' não foi encontrado 'SOIL.lib(stb_image_aug.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+  GB-HenriqueFaes.vcxproj -> C:\Users\Henrique\Desktop\Trabalhos Computação Gráfica\GB-HenriqueFaes\GB-HenriqueFaes\Debug\GB-HenriqueFaes.exe

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:GB-HenriqueFaes\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\shaders\\lighting.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:shaders\\lighting.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:GB-HenriqueFaes\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:GB-HenriqueFaes\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:GB-HenriqueFaes\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Obj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:GB-HenriqueFaes\\Obj.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Mtllib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:GB-HenriqueFaes\\Mtllib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:GB-HenriqueFaes\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\shaders\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BD836A0-3420-4EDB-9303-98D1862A2023}|GB-HenriqueFaes\\GB-HenriqueFaes.vcxproj|solutionrelative:shaders\\lighting.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Main.cpp",
+              "RelativeDocumentMoniker": "GB-HenriqueFaes\\Main.cpp",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Main.cpp",
+              "RelativeToolTip": "GB-HenriqueFaes\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-13T12:01:56.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Shader.h",
+              "RelativeDocumentMoniker": "GB-HenriqueFaes\\Shader.h",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Shader.h",
+              "RelativeToolTip": "GB-HenriqueFaes\\Shader.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T12:01:53.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Scene.h",
+              "RelativeDocumentMoniker": "GB-HenriqueFaes\\Scene.h",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Scene.h",
+              "RelativeToolTip": "GB-HenriqueFaes\\Scene.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T12:00:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Object.h",
+              "RelativeDocumentMoniker": "GB-HenriqueFaes\\Object.h",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Object.h",
+              "RelativeToolTip": "GB-HenriqueFaes\\Object.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T11:59:39.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obj.h",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Obj.h",
+              "RelativeDocumentMoniker": "GB-HenriqueFaes\\Obj.h",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Obj.h",
+              "RelativeToolTip": "GB-HenriqueFaes\\Obj.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T11:58:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mtllib.h",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Mtllib.h",
+              "RelativeDocumentMoniker": "GB-HenriqueFaes\\Mtllib.h",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Mtllib.h",
+              "RelativeToolTip": "GB-HenriqueFaes\\Mtllib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T11:58:37.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Group.h",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Group.h",
+              "RelativeDocumentMoniker": "GB-HenriqueFaes\\Group.h",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\GB-HenriqueFaes\\Group.h",
+              "RelativeToolTip": "GB-HenriqueFaes\\Group.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-13T11:58:15.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lighting.frag",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\shaders\\lighting.frag",
+              "RelativeDocumentMoniker": "shaders\\lighting.frag",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\shaders\\lighting.frag",
+              "RelativeToolTip": "shaders\\lighting.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-13T10:35:51.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lighting.vs",
+              "DocumentMoniker": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\shaders\\lighting.vs",
+              "RelativeDocumentMoniker": "shaders\\lighting.vs",
+              "ToolTip": "C:\\Users\\Henrique\\Desktop\\Trabalhos Computa\u00E7\u00E3o Gr\u00E1fica\\GB-HenriqueFaes\\GB-HenriqueFaes\\shaders\\lighting.vs",
+              "RelativeToolTip": "shaders\\lighting.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-13T10:35:10.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
